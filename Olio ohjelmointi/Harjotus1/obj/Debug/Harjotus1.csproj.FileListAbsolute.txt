@@ -1,0 +1,8 @@
+C:\Users\waltteri.miikkulaine\source\repos\maito2maito\Olio-Ohjelmointi-DATH22\Olio ohjelmointi\Harjotus1\obj\Debug\Harjotus1.csproj.AssemblyReference.cache
+C:\Users\waltteri.miikkulaine\source\repos\maito2maito\Olio-Ohjelmointi-DATH22\Olio ohjelmointi\Harjotus1\obj\Debug\Harjotus1.csproj.SuggestedBindingRedirects.cache
+C:\Users\waltteri.miikkulaine\source\repos\maito2maito\Olio-Ohjelmointi-DATH22\Olio ohjelmointi\Harjotus1\obj\Debug\Harjotus1.csproj.CoreCompileInputs.cache
+C:\Users\waltteri.miikkulaine\source\repos\maito2maito\Olio-Ohjelmointi-DATH22\Olio ohjelmointi\Harjotus1\bin\Debug\Harjotus1.exe.config
+C:\Users\waltteri.miikkulaine\source\repos\maito2maito\Olio-Ohjelmointi-DATH22\Olio ohjelmointi\Harjotus1\bin\Debug\Harjotus1.exe
+C:\Users\waltteri.miikkulaine\source\repos\maito2maito\Olio-Ohjelmointi-DATH22\Olio ohjelmointi\Harjotus1\bin\Debug\Harjotus1.pdb
+C:\Users\waltteri.miikkulaine\source\repos\maito2maito\Olio-Ohjelmointi-DATH22\Olio ohjelmointi\Harjotus1\obj\Debug\Harjotus1.exe
+C:\Users\waltteri.miikkulaine\source\repos\maito2maito\Olio-Ohjelmointi-DATH22\Olio ohjelmointi\Harjotus1\obj\Debug\Harjotus1.pdb

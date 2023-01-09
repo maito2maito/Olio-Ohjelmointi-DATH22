@@ -10,18 +10,15 @@ namespace Olio_ohjelmointi
     {
         static void Main(string[] args)
         {
-            Koira koira1 = new Koira("Rekku" , "mopsi"); // luodaaan uusi koira olio/instanssi
-            koira1.nimi = "RekkuRekku";
-            koira1.Ikä = 2;
-            koira1.Rotu = "Mopsi";
+            Koira koira1 = new Koira("Rekku" , "mopsi" , 2); // luodaaan uusi koira olio/instanssi
+           
 
             koira1.HaeTiedot();
             
-
-            Koira koira2= new Koira("ali" , "bulldog");
-            koira2.nimi = "ali";
-            koira2.Ikä = 5;
-            koira2.Rotu = "bulldog";
+            //konstruktori jolla pakotetaan olion luonti tilantessa 
+            // antamaan tarvittavat tiedot oliolle (esi nimi , rotu ja ikä
+            Koira koira2= new Koira("ali" , "bulldog" , 5);
+           
 
             koira2.HaeTiedot();
 

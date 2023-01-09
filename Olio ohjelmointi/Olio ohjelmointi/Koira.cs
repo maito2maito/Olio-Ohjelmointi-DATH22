@@ -13,6 +13,18 @@ namespace Olio_ohjelmointi
         public string Rotu;
         public int Ikä;
 
+        public Koira() 
+        {
+
+        }
+
+        public Koira(string nimi, string rotu, int ikä)
+        {
+            this.nimi = nimi;
+            Rotu = rotu;
+            Ikä = ikä;
+        }
+
         public void HaeTiedot()
         {
             Console.WriteLine("Koiran nimi on" + nimi);
