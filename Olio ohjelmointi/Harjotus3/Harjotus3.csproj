@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{E52DD427-8EE9-43BB-9801-2D2AF3CF1916}</ProjectGuid>
+    <ProjectGuid>{2D897283-1D01-4330-9784-D8B9EAC860B5}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Harjotus2</RootNamespace>
-    <AssemblyName>Harjotus2</AssemblyName>
+    <RootNamespace>Harjotus3</RootNamespace>
+    <AssemblyName>Harjotus3</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Opiskelija.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
