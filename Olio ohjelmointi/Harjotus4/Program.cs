@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -23,6 +24,13 @@ namespace Harjotus4
 
             albumi.TulostaTiedot();
 
+            Staatinen_luokka.staattinenMetodi();
+
+            float kilometriArvo = 143.50f;
+            //käytetään hyödyksi luotua globaalista staatista 
+            //lukka joka muunetaa kilometrit mailiksi
+            float mailiArvo = Staatinen_luokka.KmToMiles(kilometriArvo);
+            Console.WriteLine(kilometriArvo + "Km on mailina " + mailiArvo);
 
         }
     }
