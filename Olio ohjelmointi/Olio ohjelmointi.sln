@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Harjotus2", "Harjotus2\Harj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Harjotus3", "Harjotus3\Harjotus3.csproj", "{2D897283-1D01-4330-9784-D8B9EAC860B5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Harjotus4", "Harjotus4\Harjotus4.csproj", "{E3BB7282-3AD6-44E9-9065-5015D8BFB6C5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{2D897283-1D01-4330-9784-D8B9EAC860B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2D897283-1D01-4330-9784-D8B9EAC860B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2D897283-1D01-4330-9784-D8B9EAC860B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3BB7282-3AD6-44E9-9065-5015D8BFB6C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3BB7282-3AD6-44E9-9065-5015D8BFB6C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3BB7282-3AD6-44E9-9065-5015D8BFB6C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3BB7282-3AD6-44E9-9065-5015D8BFB6C5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

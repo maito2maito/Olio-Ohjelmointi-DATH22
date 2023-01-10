@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{2D897283-1D01-4330-9784-D8B9EAC860B5}</ProjectGuid>
+    <ProjectGuid>{E3BB7282-3AD6-44E9-9065-5015D8BFB6C5}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Harjotus3</RootNamespace>
-    <AssemblyName>Harjotus3</AssemblyName>
+    <RootNamespace>Harjotus4</RootNamespace>
+    <AssemblyName>Harjotus4</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Kiuas.cs" />
+    <Compile Include="albumi.cs" />
+    <Compile Include="kappale.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
