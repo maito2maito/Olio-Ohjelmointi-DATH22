@@ -5,15 +5,17 @@ VisualStudioVersion = 17.4.33122.133
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Olio ohjelmointi", "Olio ohjelmointi\Olio ohjelmointi.csproj", "{106832C4-DE61-42E4-8CD8-54D148E4CA2C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Harjotus1", "Harjotus1\Harjotus1.csproj", "{AC158AC1-3AB0-487A-B8D7-CF204C2EA7B5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Harjotus 1", "Harjotus1\Harjotus 1.csproj", "{AC158AC1-3AB0-487A-B8D7-CF204C2EA7B5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Harjotus2", "Harjotus2\Harjotus2.csproj", "{E52DD427-8EE9-43BB-9801-2D2AF3CF1916}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Harjotus 2", "Harjotus2\Harjotus 2.csproj", "{E52DD427-8EE9-43BB-9801-2D2AF3CF1916}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Harjotus3", "Harjotus3\Harjotus3.csproj", "{2D897283-1D01-4330-9784-D8B9EAC860B5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Harjotus 3", "Harjotus3\Harjotus 3.csproj", "{2D897283-1D01-4330-9784-D8B9EAC860B5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Harjotus4", "Harjotus4\Harjotus4.csproj", "{E3BB7282-3AD6-44E9-9065-5015D8BFB6C5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Harjotus 4", "Harjotus4\Harjotus 4.csproj", "{E3BB7282-3AD6-44E9-9065-5015D8BFB6C5}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Harjootus 5", "Harjootus 5\Harjootus 5.csproj", "{C1488AEA-2A67-472A-A3D3-2265CCFA29EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Perintä", "Perintä\Perintä.csproj", "{DC3C251D-0D9E-4367-BDA4-D72710B4A816}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{C1488AEA-2A67-472A-A3D3-2265CCFA29EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C1488AEA-2A67-472A-A3D3-2265CCFA29EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C1488AEA-2A67-472A-A3D3-2265CCFA29EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC3C251D-0D9E-4367-BDA4-D72710B4A816}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC3C251D-0D9E-4367-BDA4-D72710B4A816}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC3C251D-0D9E-4367-BDA4-D72710B4A816}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC3C251D-0D9E-4367-BDA4-D72710B4A816}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
