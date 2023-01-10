@@ -11,6 +11,9 @@ namespace Harjootus_5
         static void Main(string[] args)
         {
             Console.WriteLine(Laskin.summa(15, 2));
+            Console.WriteLine(Laskin.erotus(15, 2));
+            Console.WriteLine(Laskin.kertolasku(15, 2));
+            Console.WriteLine(Laskin.jako(15, 2));
         }
     }
 }
