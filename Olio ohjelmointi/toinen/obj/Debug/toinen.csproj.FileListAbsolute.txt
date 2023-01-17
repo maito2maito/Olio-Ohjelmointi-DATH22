@@ -1,0 +1,16 @@
+C:\Users\waltteri.miikkulaine\source\repos\maito2maito\Olio-Ohjelmointi-DATH22\Olio ohjelmointi\toinen\obj\Debug\toinen.csproj.AssemblyReference.cache
+C:\Users\waltteri.miikkulaine\source\repos\maito2maito\Olio-Ohjelmointi-DATH22\Olio ohjelmointi\toinen\obj\Debug\toinen.csproj.SuggestedBindingRedirects.cache
+C:\Users\waltteri.miikkulaine\source\repos\maito2maito\Olio-Ohjelmointi-DATH22\Olio ohjelmointi\toinen\obj\Debug\MainWindow.g.cs
+C:\Users\waltteri.miikkulaine\source\repos\maito2maito\Olio-Ohjelmointi-DATH22\Olio ohjelmointi\toinen\obj\Debug\App.g.cs
+C:\Users\waltteri.miikkulaine\source\repos\maito2maito\Olio-Ohjelmointi-DATH22\Olio ohjelmointi\toinen\obj\Debug\toinen_MarkupCompile.cache
+C:\Users\waltteri.miikkulaine\source\repos\maito2maito\Olio-Ohjelmointi-DATH22\Olio ohjelmointi\toinen\obj\Debug\toinen_MarkupCompile.lref
+C:\Users\waltteri.miikkulaine\source\repos\maito2maito\Olio-Ohjelmointi-DATH22\Olio ohjelmointi\toinen\bin\Debug\toinen.exe.config
+C:\Users\waltteri.miikkulaine\source\repos\maito2maito\Olio-Ohjelmointi-DATH22\Olio ohjelmointi\toinen\bin\Debug\toinen.exe
+C:\Users\waltteri.miikkulaine\source\repos\maito2maito\Olio-Ohjelmointi-DATH22\Olio ohjelmointi\toinen\bin\Debug\toinen.pdb
+C:\Users\waltteri.miikkulaine\source\repos\maito2maito\Olio-Ohjelmointi-DATH22\Olio ohjelmointi\toinen\obj\Debug\MainWindow.baml
+C:\Users\waltteri.miikkulaine\source\repos\maito2maito\Olio-Ohjelmointi-DATH22\Olio ohjelmointi\toinen\obj\Debug\toinen.g.resources
+C:\Users\waltteri.miikkulaine\source\repos\maito2maito\Olio-Ohjelmointi-DATH22\Olio ohjelmointi\toinen\obj\Debug\toinen.Properties.Resources.resources
+C:\Users\waltteri.miikkulaine\source\repos\maito2maito\Olio-Ohjelmointi-DATH22\Olio ohjelmointi\toinen\obj\Debug\toinen.csproj.GenerateResource.cache
+C:\Users\waltteri.miikkulaine\source\repos\maito2maito\Olio-Ohjelmointi-DATH22\Olio ohjelmointi\toinen\obj\Debug\toinen.csproj.CoreCompileInputs.cache
+C:\Users\waltteri.miikkulaine\source\repos\maito2maito\Olio-Ohjelmointi-DATH22\Olio ohjelmointi\toinen\obj\Debug\toinen.exe
+C:\Users\waltteri.miikkulaine\source\repos\maito2maito\Olio-Ohjelmointi-DATH22\Olio ohjelmointi\toinen\obj\Debug\toinen.pdb

@@ -19,7 +19,7 @@ namespace Harjotus4
 
         public static float KmToMiles(float km)
         {
-            float conversionRate = 0,62137f;
+            float conversionRate = 0.62137f;
             return km * conversionRate;
         }
     }
