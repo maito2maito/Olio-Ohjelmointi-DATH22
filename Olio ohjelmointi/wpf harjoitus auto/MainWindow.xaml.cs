@@ -19,10 +19,33 @@ namespace wpf_harjoitus_auto
     /// Interaction logic for MainWindow.xaml
     /// </summary>
     public partial class MainWindow : Window
+
     {
+            List<Ajoneuvo> ajoneuvot = new List<Ajoneuvo>();
         public MainWindow()
         {
+
             InitializeComponent();
+        }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {   //luodaan uusia ajoneuvo olio
+            Ajoneuvo uusiAjoneuvo = new Ajoneuvo();
+
+            uusiAjoneuvo.Model = input_Malli.Text;
+            uusiAjoneuvo.Speed = int.Parse(input_Nopeus.Text);
+            uusiAjoneuvo.Tyres = int.Parse(input_Renkaat.Text);
+
+            input_Malli.Text = input_Malli.Text;
+            input_Renkaat.Text = "";
+            input_Nopeus.Text = "";
+
+            txt_luotuajoneuvo.Text = "luotu uusi ajoneuvo tiedoilla: \n" + uusiAjoneuvo.HaeTietoja();
+            ajoneuvot.Add(uusiAjoneuvo);
+            
+
+
+
         }
     }
 }

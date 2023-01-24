@@ -8,15 +8,14 @@ namespace wpf_harjoitus_auto
 {
     internal class Ajoneuvo
     {
-        public int renkaat;
-        public int nopeus;
-        public string merkki;
-
-        public Ajoneuvo(int renkaat, int nopeus, string merkki)
+        public string Model { get; set; }
+        public string Speed { get; set; }
+        public string Tyres { get; set; }
+        
+        public string HaeTietoja()
         {
-            this.renkaat = renkaat;
-            this.nopeus = nopeus;
-            this.merkki = merkki;
+            return Model +"ajoneuvolla on" + Tyres + "rengas ja maksiminopeus on " + Speed;
         }
+
     }
 }
