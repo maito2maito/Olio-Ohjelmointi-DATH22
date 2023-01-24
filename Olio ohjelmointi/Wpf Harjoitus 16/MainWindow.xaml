@@ -7,10 +7,10 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <TextBox x:Name="input_arvo" HorizontalAlignment="Left" Margin="349,199,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120" PreviewTextInput="input_arvo_PreviewTextInput"/>
+        <TextBox x:Name="input_arvo" HorizontalAlignment="Left" Margin="349,68,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120" PreviewTextInput="input_arvo_PreviewTextInput"/>
         <Button x:Name="btm_muutaKM" Content="muunna KM" HorizontalAlignment="Left" Margin="251,121,0,0" VerticalAlignment="Top" Width="149" Height="44" Click="btm_muutaKM_Click"/>
         <Button x:Name="btm_muutaMIle" Content="MuunaMailiksi" HorizontalAlignment="Left" Margin="428,121,0,0" VerticalAlignment="Top" Width="136" Height="44" Click="btm_muutaMIle_Click"/>
-        <TextBlock x:Name="txt_muutettu_arvo" HorizontalAlignment="Left" Margin="384,71,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top"/>
+        <TextBlock x:Name="txt_muutettu_arvo" HorizontalAlignment="Left" Margin="384,204,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top"/>
 
     </Grid>
 </Window>

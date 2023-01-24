@@ -1,0 +1,27 @@
+﻿<Window x:Class="kiuas2_WPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:kiuas2_WPF"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Image HorizontalAlignment="Left" Height="100" Margin="330,170,0,0" VerticalAlignment="Top" Width="100"/>
+        <Image Margin="239,118,239,0" Source="/Image1.png" Stretch="Fill"/>
+        <CheckBox x:Name="ckb1" Content=" Kiuas Pääle/Pois" HorizontalAlignment="Left" Margin="172,170,0,0" VerticalAlignment="Top" Checked="ckb1_Checked" Unchecked="ckb1_Unchecked"/>
+        <Slider x:Name="slider_Kosteus" HorizontalAlignment="Left" Margin="172,202,0,0" VerticalAlignment="Top" Width="120" BorderBrush="Red" Background="#FF681212" ValueChanged="slider_Kosteus_ValueChanged" Maximum="100" SmallChange="1">
+            <Slider.Effect>
+                <DropShadowEffect/>
+            </Slider.Effect>
+        </Slider>
+        <Slider x:Name="slider_lämpötila" HorizontalAlignment="Left" Margin="172,239,0,0" VerticalAlignment="Top" Width="120" Background="#FF6D0E0E" ValueChanged="slider_lämpötila_ValueChanged" Maximum="120" SmallChange="1">
+            <Slider.Effect>
+                <DropShadowEffect/>
+            </Slider.Effect>
+        </Slider>
+        <TextBlock x:Name="txb_k" HorizontalAlignment="Left" Margin="561,185,0,0" TextWrapping="Wrap" Text=" Kosteus: " VerticalAlignment="Top"/>
+        <TextBlock x:Name="txt_L" HorizontalAlignment="Left" Margin="561,217,0,0" TextWrapping="Wrap" Text="Lämpötila: " VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>

@@ -29,6 +29,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "toinen", "toinen\toinen.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wpf Harjoitus 16", "Wpf Harjoitus 16\Wpf Harjoitus 16.csproj", "{111D9B74-D729-4F28-B98A-EEFA87AF1CFA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wpf harjoitus auto", "wpf harjoitus auto\wpf harjoitus auto.csproj", "{A36CCCE3-5893-4C5C-A25E-7D0CA95411DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kiuas2 WPF", "kiuas2 WPF\kiuas2 WPF.csproj", "{EEC32FE8-CBC4-44E5-BF3A-A5B349698F08}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +91,14 @@ Global
 		{111D9B74-D729-4F28-B98A-EEFA87AF1CFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{111D9B74-D729-4F28-B98A-EEFA87AF1CFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{111D9B74-D729-4F28-B98A-EEFA87AF1CFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A36CCCE3-5893-4C5C-A25E-7D0CA95411DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A36CCCE3-5893-4C5C-A25E-7D0CA95411DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A36CCCE3-5893-4C5C-A25E-7D0CA95411DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A36CCCE3-5893-4C5C-A25E-7D0CA95411DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEC32FE8-CBC4-44E5-BF3A-A5B349698F08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEC32FE8-CBC4-44E5-BF3A-A5B349698F08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEC32FE8-CBC4-44E5-BF3A-A5B349698F08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEC32FE8-CBC4-44E5-BF3A-A5B349698F08}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
