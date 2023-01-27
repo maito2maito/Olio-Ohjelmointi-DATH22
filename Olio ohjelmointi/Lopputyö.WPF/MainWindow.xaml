@@ -1,0 +1,21 @@
+﻿<Window x:Name="window" x:Class="Lopputyö.WPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Lopputyö.WPF"
+        mc:Ignorable="d"
+        Title="Kauppalista" Height="450" Width="800">
+    <Grid Background="#FF569283">
+        <DataGrid x:Name="dt_Data" Margin="451,0,0,0" SelectionChanged="dt_Data_SelectionChanged_1" BorderBrush="{Binding AreAnyTouchesCapturedWithin, ElementName=window, Mode=OneWay}"/>
+        <TextBox x:Name="txt_nimi" HorizontalAlignment="Left" Margin="69,64,0,0" TextWrapping="Wrap" Text="Tuote" VerticalAlignment="Top" Width="120" TextChanged="txt_nimi_TextChanged_1"/>
+        <TextBox x:Name="txt_hinta" HorizontalAlignment="Left" Margin="69,106,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="txt_kilohinta" HorizontalAlignment="Left" Margin="69,165,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="txt_paino" HorizontalAlignment="Left" Margin="69,228,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="btn_Lisää" Content="luo Listaan " HorizontalAlignment="Left" Margin="261,106,0,0" VerticalAlignment="Top" Click="btn_Lisää_Click" Height="120" Width="162" Foreground="Red">
+            <Button.Background>
+                <ImageBrush ImageSource="/pizza.jpg"/>
+            </Button.Background>
+        </Button>
+    </Grid>
+</Window>

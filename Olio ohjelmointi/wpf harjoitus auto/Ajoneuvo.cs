@@ -9,8 +9,8 @@ namespace wpf_harjoitus_auto
     internal class Ajoneuvo
     {
         public string Model { get; set; }
-        public string Speed { get; set; }
-        public string Tyres { get; set; }
+        public int Speed { get; set; }
+        public int Tyres { get; set; }
         
         public string HaeTietoja()
         {

@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{EEC32FE8-CBC4-44E5-BF3A-A5B349698F08}</ProjectGuid>
+    <ProjectGuid>{FD6E997E-2E2A-4AD2-81E7-AF45FB2D5AD8}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>kiuas2_WPF</RootNamespace>
-    <AssemblyName>kiuas2 WPF</AssemblyName>
+    <RootNamespace>Lopputyö</RootNamespace>
+    <AssemblyName>Lopputyö</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
@@ -93,15 +93,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-  </ItemGroup>
-  <ItemGroup>
-    <Resource Include="Image1.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <Resource Include="Image2.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <Resource Include="sauna.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
